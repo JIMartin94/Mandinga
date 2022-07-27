@@ -287,6 +287,7 @@
   padding-top: 90px; }
   .wrapper h2 {
     font-size: 60px;
+    font-weight: 700;
     text-align: center;
     margin-bottom: 40px; }
   .wrapper p {
@@ -302,25 +303,26 @@
 
 .chicas {
   background-color: white;
-  margin: 20px;
+  margin: 40px;
   margin-bottom: 10px;
   margin-top: 100px;
-  width: 350px;
-  padding: 20px;
-  height: auto;
+  width: 480px;
+  padding: 20px 40px;
+  height: 425px;
   border-radius: 7px; }
   .chicas h3 {
     font-family: 'Raleway', sans-serif;
-    font-size: 18px;
-    margin-top: 40px; }
+    font-size: 20px;
+    font-weight: 700; }
   .chicas p {
     font: size 20px;
     font-family: 'Poppins', sans-serif;
     color: black; }
 
 .foto-chicas {
-  position: absolute;
-  top: 20px; }
+  position: relative;
+  bottom: 60px;
+  right: 50px; }
   .foto-chicas img {
     width: 120px;
     height: 120px;
