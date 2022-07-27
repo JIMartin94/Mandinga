@@ -1,0 +1,32 @@
+.trabajos_realizados{
+    height: 840px;
+    div{
+        h2{
+            text-align: center;
+            font-size: 60px;
+            font-weight: 700;
+            margin-bottom: 80px;
+        }
+
+        img{
+            box-shadow: 1px 1px 3px black;
+        }
+
+        .texto{
+            margin-top: 40px;
+            p{  
+                font-size: 20px;
+                font-weight: 500;
+                text-align: center;
+                margin-bottom: 0px;
+                color: #6D7280;
+            }
+            
+        }
+
+        span{
+            position: relative;
+            bottom: 50px; 
+        }
+    }  
+}

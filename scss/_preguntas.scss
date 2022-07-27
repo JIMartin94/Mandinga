@@ -1,0 +1,31 @@
+.preguntas{
+    padding-top: 80px;
+    div{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        width: 100%;
+        h2{
+            text-align: center;
+            font-size: 60px;
+            font-weight: 700;
+            color: #182536 ;
+        }
+        p{
+            text-align: center;
+        }
+        .accordion{
+            width: 50%;
+            padding: 10px 50px 50px 10px;
+
+            .accordion-header{
+                width: 100%;
+            }
+
+            .accordion-button:not(.collapsed) {
+                color: white;
+                background-color: #5956E9;
+            }
+        }
+    }
+}

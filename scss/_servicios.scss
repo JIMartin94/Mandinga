@@ -1,0 +1,62 @@
+.servicios{
+    height: 1320px;
+    .titulo{
+        height: 368px;
+        h2{
+            font-size: 60px;
+            text-align: center; 
+            font-weight: 700;
+            position: relative;
+            top: 200px;
+        }
+    }
+
+    .foto{
+        height: 368px;
+    }
+
+    .serv{
+        position: relative;
+        bottom: 136px;
+        height: 350px;
+        margin-bottom: -80px;
+        div{
+            background-color: #FAB8C5;
+            border-radius: 50px;
+            box-shadow: 1px 1px 3px black;
+            height: 350px;
+            width: 97%;
+            padding: 40px 40px;
+            h4{
+                text-align: center;
+                font-size: 20px;
+                font-weight: 700;
+                color: #5956E9;
+                margin-bottom: 25px;
+            }
+            p{
+                text-align: center;
+                font-size: 17px;
+                font-weight: 500;
+                color: #182536;
+            }
+            
+        }
+        
+    }
+
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
