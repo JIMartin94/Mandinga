@@ -260,6 +260,8 @@
   .trabajos_realizados div span {
     position: relative;
     bottom: 50px; }
+  .trabajos_realizados div .carousel-indicators {
+    padding-bottom: 81px; }
 
 .testimonios {
   height: 932px;
